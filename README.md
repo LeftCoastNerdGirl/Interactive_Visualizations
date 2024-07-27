@@ -5,7 +5,7 @@
 Group 5  
 Jasleen Kaur  
 Ashlee Vo  
-Claire Fraser  
+Clare Kim  
 Lori Bradshaw  
 
 # Project Guidelines
